@@ -7,6 +7,6 @@ Este repositorio contiene la información detallada sobre el desarrollo y evoluc
 👉 En este enlace se encuentra la primera entrega del proyecto → *[Anteproyecto](#https://www.notion.so/Concesionarios-BaCa-TFG-2032ca2f626b80d09c2bf136f0a4a88b)*: https://www.notion.so/Concesionarios-BaCa-TFG-2032ca2f626b80d09c2bf136f0a4a88b  
 ## Código actualizado 💻  
 Repositorios con el código actualizado del proyecto:  
-- [Concesionarios BaCa - Android](#https://github.com/adribarrios05/Concesionarios-BaCa-Android)  
-- [Concesionarios BaCa - Web](#https://github.com/adribarrios05/Proyecto-Concesionario-Angular)  
+- [Concesionarios BaCa - Android](#https://github.com/adribarrios05/Concesionarios-BaCa-Android): https://github.com/adribarrios05/Concesionarios-BaCa-Android 
+- [Concesionarios BaCa - Web](#https://github.com/adribarrios05/Proyecto-Concesionario-Angular): https://github.com/adribarrios05/Proyecto-Concesionario-Angular
 
